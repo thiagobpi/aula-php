@@ -1,5 +1,7 @@
 <?php
 
+//alterado no git
+
 $categorias = [];
 $categorias[] = 'infantil';
 $categorias[] = 'adolescente';
